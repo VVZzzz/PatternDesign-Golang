@@ -1,1 +1,4 @@
-# PatternDesign-Golang
+# 设计模式-golang
+
+- 策略模式
+- 观察者模式
