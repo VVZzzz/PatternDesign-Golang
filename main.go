@@ -1,7 +1,7 @@
 package main
 
-import "github.com/PatternDesign-Golang/StrategyPattern/DuckTest"
+import "github.com/PatternDesign-Golang/strategy_pattern/duck_test"
 
 func main() {
-	DuckTest.Test()
+	duck_test.Test()
 }

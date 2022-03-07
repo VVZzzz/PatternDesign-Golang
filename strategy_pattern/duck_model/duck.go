@@ -1,4 +1,4 @@
-package DuckModel
+package duck_model
 
 type Duck struct {
 	// 自定义 Duck 外观等属性

@@ -1,4 +1,4 @@
-package DuckImpl
+package duck_impl
 
 import "fmt"
 

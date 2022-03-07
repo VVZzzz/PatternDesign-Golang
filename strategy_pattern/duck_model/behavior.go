@@ -1,4 +1,4 @@
-package DuckModel
+package duck_model
 
 type FlyBehavior interface {
 	Fly() // interface 的方法需大写才可以被其他 package 实现
