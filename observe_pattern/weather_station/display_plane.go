@@ -27,5 +27,4 @@ func (t *TemperaturePlane) Update(observable *observe.Observable, data interface
 	t.temperature = weatherData.Temperature
 }
 
-type PressurePlance struct {
-}
+// ...可定义其他 plane
