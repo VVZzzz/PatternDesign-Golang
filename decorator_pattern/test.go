@@ -3,7 +3,7 @@ package decorator_pattern
 import "fmt"
 
 func TestDecorator() {
-
+	fmt.Printf("Decorator Pattern Start...\n")
 	// 普通咖啡
 	generalCoffee := &GeneralCoffeeImpl{}
 	// 普通咖啡+摩卡
@@ -15,4 +15,5 @@ func TestDecorator() {
 	// 浓缩咖啡+Whip+Milk
 	espressCoffee := &MilkDecorator{Coffee: &WhipDecorator{Coffee: &EspressoCoffeeImpl{}}}
 	fmt.Println(espressCoffee.GetDescription())
+	fmt.Printf("Decorator Pattern End...\n\n")
 }
