@@ -14,6 +14,7 @@
 - 装饰者模式 `decorator`
 - 代理模式 `proxy`
 - 组合模式 `cmoposite`
+- 享元模式 `flyweight`
 
 ## 行为型模式
 - 策略模式 `strategy`
