@@ -12,6 +12,8 @@
 - 外观模式 `facade`
 - 适配器模式 `adapter`
 - 装饰者模式 `decorator`
+- 代理模式 `proxy`
+- 组合模式 `cmoposite`
 
 ## 行为型模式
 - 策略模式 `strategy`
